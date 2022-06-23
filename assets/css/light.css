@@ -1,0 +1,48 @@
+body {
+    background-color: #ffffff;
+}
+header {
+    background-color: #ffffff;
+}
+.but a {
+    background-color: #1CBFA2;
+    color: #ffffff;
+}
+ul a {
+    color: black;
+}
+.dot {
+    background-color: rgb(182, 182, 182);
+    border-color: rgba(173, 173, 173, 0.452);
+}
+.active {
+    background-color: #1CBFA2;
+}
+.card {
+    background-color: #FFDBA6;
+    border: 1px solid rgb(230, 230, 230);
+    box-shadow: 2px 3px 8px 1px rgba(0, 0, 0, 0.1);
+}
+.card .body {
+    background-color: white;
+    color:black;
+}
+.button {
+    background-color: #1CBFA2;
+    color:#ffffff;
+}
+h2 {
+    color: black;
+}
+.theme-button {
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+.body a {
+    background-color: #1CBFA2;
+    color: #ffffff;
+}
+.knop {
+    background-color: #1CBFA2;
+    color: #ffffff;
+}
